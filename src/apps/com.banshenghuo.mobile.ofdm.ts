@@ -30,6 +30,13 @@ export default defineGkdApp({
           matches: '[text="反馈"] -n @View[index=0] > Image',
           snapshotUrls: 'https://i.gkd.li/i/15444017',
         },
+        {
+          key: 3,
+          activityIds: 'com.banshenghuo.mobile.ofdm.MainActivity',
+          matches:
+            '@ViewGroup[clickable=true][childCount=4] > [text="跳过"]',
+          snapshotUrls: 'https://i.gkd.li/snapshot/1723119047925',
+        },
       ],
     },
   ],
