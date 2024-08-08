@@ -37,6 +37,7 @@ export default defineGkdApp({
             '@ViewGroup[clickable=true][childCount=4] > [text="跳过"]',
           snapshotUrls: 'https://i.gkd.li/snapshot/1723119047925',
         },
+        
       ],
     },
   ],
