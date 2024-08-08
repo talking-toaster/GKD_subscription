@@ -35,7 +35,7 @@ export default defineGkdApp({
           activityIds: 'com.banshenghuo.mobile.ofdm.MainActivity',
           matches:
             '@ViewGroup[clickable=true][childCount=4] > [text="跳过"]',
-          snapshotUrls: 'https://i.gkd.li/snapshot/1723119047925',
+          snapshotUrls: 'https://i.gkd.li/i/16547523',
         },
         
       ],
